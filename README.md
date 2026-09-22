@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=640&lines=Backend+Developer+%7C+Node.js+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+Redis;Caching%2C+transactions%2C+REST+APIs;B.Tech+IT+%40+VIT+Vellore+%7C+Jamshedpur%2C+India;Currently+learning+system+design+%26+distributed+systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=690&lines=Backend+Developer+%7C+Node.js+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+Redis;Caching%2C+transactions%2C+REST+APIs;B.Tech+IT+%40+VIT+Vellore+%7C;Currently+learning+system+design+%26+distributed+systems" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ I like the unglamorous parts of backend work — transactions, isolation levels,
     <td width="50%" valign="top">
       <h4>Intern &nbsp;·&nbsp; Tata Steel</h4>
       <sub>May 2026 – Jun 2026 · Jamshedpur, India · On-site</sub>
-      <p>Worked on two internal .NET applications running on Oracle — a jQuery 1→3 and Bootstrap 3→4 migration plus feature and bug-fix work.</p>
+      <p>Worked on two internal .NET applications running on Oracle.</p>
     </td>
     <td width="50%" valign="top">
       <h4>Software Development Intern &nbsp;·&nbsp; KalkiNi</h4>
