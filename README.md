@@ -1,174 +1,155 @@
+<!-- ═══════════════ HERO · the 6-second layer ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b3f73,100:70a5fd&height=200&section=header&text=Chaitanya%20Srivastava&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%C2%B7%20Node.js%20%C2%B7%20PostgreSQL%20%C2%B7%20Redis&descAlignY=58&descSize=16" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,45:0A2463,100:1E6FD9&height=210&section=header&text=Chaitanya%20Srivastava&fontSize=46&fontColor=E6F1FF&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20Node.js%20%C2%B7%20PostgreSQL%20%C2%B7%20Redis&descSize=17&descAlignY=57&animation=fadeIn" alt="Chaitanya Srivastava"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=690&lines=Backend+Developer+%7C+Node.js+%C2%B7+Express+%C2%B7+PostgreSQL+%C2%B7+Redis;Caching%2C+transactions%2C+REST+APIs;B.Tech+IT+%40+VIT+Vellore+%7C;Currently+learning+system+design+%26+distributed+systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+backends+that+handle+money+%26+concurrency;ACID+transactions+%C2%B7+idempotent+APIs+%C2%B7+caching;Learning+system+design%2C+AWS+%26+distributed+systems" alt="typing"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chaitanya-srivastava-904473300/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:srivastavachaitanya408@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/chaitanya0111/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="tel:+919798864033"><img src="https://img.shields.io/badge/+91%209798864033-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=code0101cs&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS"/>
-</p>
-
----
-
-### 👋 About me
-
-<img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code0101cs&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top langs"/>
-
-Backend developer working in **Node.js, Express and PostgreSQL**. B.Tech IT student at **VIT Vellore**, based in Jamshedpur.
-
-I like the unglamorous parts of backend work — transactions, isolation levels, race conditions on concurrent writes, and designing APIs that behave correctly when the client retries.
-
-- 🔭 Building a **double-entry wallet/ledger system** in Node + Postgres
-- 🌱 Currently on **system design, AWS, Docker and distributed systems**
-- 💬 Ask me about ACID transactions, idempotent API design, or caching strategy
-- 📫 **srivastavachaitanya408@gmail.com**
-
-<br clear="right"/>
-
----
-
-### 💼 Experience
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Intern &nbsp;·&nbsp; Tata Steel</h4>
-      <sub>May 2026 – Jun 2026 · Jamshedpur, India · On-site</sub>
-      <p>Worked on two internal .NET applications running on Oracle.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Software Development Intern &nbsp;·&nbsp; KalkiNi</h4>
-      <sub>Aug 2025 – Dec 2025 · Vellore, India</sub>
-      <p>AI surveillance startup, joined at the early stage. Biggest takeaway: learning to read a codebase I didn't write, which turned out to be the harder skill.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,mongodb,redis,docker&perline=7" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,postman,linux,vscode&perline=7" />
+  📍 Jamshedpur, India &nbsp;&nbsp;·&nbsp;&nbsp; 🎓 B.Tech IT @ VIT Vellore ’28 &nbsp;&nbsp;·&nbsp;&nbsp; 💼 Ex-intern @ Tata Steel, KalkiNi
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_APIs-025E8C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MVC-6DB33F?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bcrypt-004481?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EJS-A91E50?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/chaitanya-srivastava-904473300/"><img src="https://img.shields.io/badge/LinkedIn-0A2463?style=for-the-badge&logo=linkedin&logoColor=E6F1FF"/></a>
+  <a href="mailto:srivastavachaitanya408@gmail.com"><img src="https://img.shields.io/badge/Email-0A2463?style=for-the-badge&logo=gmail&logoColor=E6F1FF"/></a>
+  <a href="https://leetcode.com/u/chaitanya0111/"><img src="https://img.shields.io/badge/LeetCode-0A2463?style=for-the-badge&logo=leetcode&logoColor=E6F1FF"/></a>
+  <a href="tel:+919798864033"><img src="https://img.shields.io/badge/+91_9798864033-0A2463?style=for-the-badge&logo=whatsapp&logoColor=E6F1FF"/></a>
 </p>
 
----
+<br/>
 
-### 🚀 What I've built
+| 🔧 &nbsp;I build | 💼 &nbsp;I've worked at | 🎯 &nbsp;I'm learning |
+|:---:|:---:|:---:|
+| Backend systems for money,<br/>auth & concurrent writes | **Tata Steel** — .NET / Oracle<br/>**KalkiNi** — AI surveillance startup | System design · AWS<br/>Docker · Distributed systems |
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💸 Wallet / Ledger System</h3>
-      <p align="center">
-        <a href="https://github.com/code0101cs/Wallet-Ledger">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=code0101cs&repo=Wallet-Ledger&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-      <p>Double-entry accounting in Node and Postgres. Balances are derived from an append-only ledger instead of a mutable column. Row-level locking stops concurrent transfers from overdrawing, idempotency keys stop a retried request double-posting an entry, and every transfer commits or rolls back as one unit.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Paper Streets</h3>
-      <p align="center">
-        <a href="https://github.com/code0101cs/PaperStreets">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=code0101cs&repo=PaperStreets&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-      <p>Backtesting platform running Moving Average Crossover and Buy-and-Hold strategies on historical market data. Session-based auth, a trade log with BUY/SELL entries, portfolio performance dashboards, and saved run history per user.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/EJS-A91E50?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔐 Authentication System</h3>
-      <p align="center">
-        <a href="https://github.com/code0101cs/Authentication-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=code0101cs&repo=Authentication-System&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-      <p>Auth fundamentals built from scratch rather than pulled off the shelf — password hashing, sessions and route protection.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧾 Expense Tracker</h3>
-      <p align="center">
-        <a href="https://github.com/code0101cs/Expense_Tracker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=code0101cs&repo=Expense_Tracker&theme=tokyonight&hide_border=true" />
-        </a>
-      </p>
-      <p>Server-rendered expense tracking app with CRUD flows and category-wise breakdowns.</p>
-    </td>
-  </tr>
-</table>
+<br/>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,redis,mongodb,docker,git,linux&theme=dark" alt="stack"/>
+</p>
 
-### 🎯 Currently working on
+<br/>
 
-| Area | What I'm figuring out |
+<!-- ═══════════════ FEATURED WORK ═══════════════ -->
+<h3 align="center">Featured work</h3>
+
+<p align="center">
+  <a href="https://github.com/code0101cs/Wallet-Ledger">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0101cs&repo=Wallet-Ledger&bg_color=0A192F&title_color=58A6FF&text_color=C9D6EA&icon_color=1F6FEB&border_color=1F3B73&border_radius=10"/>
+  </a>
+  <a href="https://github.com/code0101cs/PaperStreets">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=code0101cs&repo=PaperStreets&bg_color=0A192F&title_color=58A6FF&text_color=C9D6EA&icon_color=1F6FEB&border_color=1F3B73&border_radius=10"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- ═══════════════ DEEP-DIVE · for people who stay ═══════════════ -->
+<h3 align="center">Want the details? Click any section ↓</h3>
+
+<details>
+<summary><b>👋 About me</b> &nbsp;—&nbsp; backend dev who likes the unglamorous parts</summary>
+<br/>
+
+Backend developer working in **Node.js, Express and PostgreSQL**, currently doing my B.Tech in Information Technology at **VIT Vellore**.
+
+The parts of backend work I enjoy most are the ones that break quietly: transactions, isolation levels, race conditions on concurrent writes, and APIs that behave correctly when a client retries. My internships taught me something I didn't expect — **reading a codebase I didn't write is the harder skill**, and the more useful one.
+
+</details>
+
+<details>
+<summary><b>💼 Experience</b> &nbsp;—&nbsp; Tata Steel (2026) · KalkiNi (2025)</summary>
+<br/>
+
+**Intern · Tata Steel** &nbsp;<sub>May – Jun 2026 · Jamshedpur · On-site</sub>
+- Worked on two internal **.NET** applications running on **Oracle**
+- Migrated jQuery 1 → 3 and Bootstrap 3 → 4, plus feature and bug-fix work
+
+**Software Development Intern · KalkiNi** &nbsp;<sub>Aug – Dec 2025 · Vellore</sub>
+- Joined an **AI surveillance startup** at its initial stage
+- Learned to navigate and contribute to a codebase I didn't write
+
+</details>
+
+<details>
+<summary><b>🚀 Projects in depth</b> &nbsp;—&nbsp; ledger · backtester · auth · expense tracker</summary>
+<br/>
+
+**💸 [Wallet / Ledger System](https://github.com/code0101cs/Wallet-Ledger)** &nbsp;`Node.js` `Express 5` `PostgreSQL` `JWT`
+- Double-entry accounting: balances are **derived from an append-only ledger**, never stored as a mutable column
+- `SELECT ... FOR UPDATE` row locking so concurrent transfers can't overdraw an account
+- **Idempotency keys** so a retried request never double-posts an entry
+- Every transfer is one DB transaction — all writes commit or none do
+
+**📊 [Paper Streets](https://github.com/code0101cs/PaperStreets)** &nbsp;`Node.js` `MongoDB` `EJS` `Chart.js`
+- Backtests **Moving Average Crossover** and **Buy-and-Hold** strategies on historical market data
+- Trade log, final portfolio value, and a price chart with BUY/SELL signals
+- Session-based auth with saved backtest history per user
+
+**🔐 [Authentication System](https://github.com/code0101cs/Authentication-System)** &nbsp;`Node.js` `bcrypt`
+- Password hashing, sessions and protected routes built from scratch
+
+**🧾 [Expense Tracker](https://github.com/code0101cs/Expense_Tracker)** &nbsp;`Node.js` `EJS`
+- Server-rendered CRUD app for tracking expenses
+
+</details>
+
+<details>
+<summary><b>🎯 Currently working on</b> &nbsp;—&nbsp; system design · AWS · Docker · security</summary>
+<br/>
+
+| | |
 |---|---|
 | ⚙️ **System design** | Load balancing, horizontal scaling, and where the cache actually belongs |
 | ☁️ **AWS** | EC2, RDS, and getting IAM permissions right without opening everything up |
 | 🐳 **Docker & CI/CD** | So deploys stop being a manual process |
-| 🔒 **Security** | Reading systems from an attacker's point of view |
+| 🔒 **Security** | Looking at systems from an attacker's point of view |
 | 🌐 **Distributed systems** | Eventual consistency, and what breaks when a service stops responding |
 
----
+</details>
 
-### 📊 GitHub stats
+<details>
+<summary><b>🧰 Full stack</b> &nbsp;—&nbsp; JS · Node · Postgres · Redis · Mongo · Docker</summary>
+<br/>
+
+| Area | Tools |
+|---|---|
+| **Languages** | JavaScript |
+| **Backend** | Node.js, Express, REST APIs, MVC |
+| **Databases** | PostgreSQL, MongoDB (Mongoose), Redis |
+| **Auth & security** | JWT, bcrypt, express-session |
+| **Frontend (server-rendered)** | EJS, HTML, CSS, Chart.js |
+| **Tooling** | Git, Docker, Postman, Linux |
+
+</details>
+
+<details>
+<summary><b>📊 GitHub activity</b></summary>
+<br/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=code0101cs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=code0101cs&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=code0101cs&show_icons=true&include_all_commits=true&count_private=true&bg_color=0A192F&title_color=58A6FF&text_color=C9D6EA&icon_color=1F6FEB&border_color=1F3B73&border_radius=10"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=code0101cs&background=0A192F&ring=1F6FEB&fire=58A6FF&currStreakNum=E6F1FF&sideNums=E6F1FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8892B0&stroke=1F3B73&border=1F3B73&border_radius=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code0101cs&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=code0101cs&bg_color=0A192F&color=58A6FF&line=1F6FEB&point=E6F1FF&area=true&area_color=1F6FEB&hide_border=true&radius=10"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code0101cs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
-</p>
+</details>
 
----
+<br/>
 
-### 🐍 Watch the snake eat my commits
-
+<!-- ═══════════════ FOOTER ═══════════════ -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code0101cs/code0101cs/output/github-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/code0101cs/code0101cs/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/code0101cs/code0101cs/output/github-snake-dark.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/code0101cs/code0101cs/output/github-snake.svg"/>
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:3b3f73,100:1a1b27&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6FD9,55:0A2463,100:020024&height=110&section=footer"/>
 </p>
